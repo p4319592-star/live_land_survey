@@ -3,6 +3,17 @@
 ## Overview
 
 **Q-GibberLink** is the first quantum-secured communication platform for AI-to-AI data exchange using the GibberLink acoustic protocol. When two AI agents discover they are both AI, they switch from human-readable English to GGWave audio beeps for efficiency. Q-GibberLink secures this acoustic channel with a hybrid **QKD (BB84) + PQC (Kyber768)** protocol and a trust-aware controller that auto-falls back to PQC when the quantum channel is compromised.
+Here are both links to access the dashboard:
+
+Network Link (for phone, tablet, or other devices on the same Wi-Fi):
+
+👉 http://192.168.43.253:8501
+
+Direct Link (for this computer):
+
+👉 http://localhost:8501
+
+
 
 > **Hackathon Track 1: Quantum Cryptography & Security**
 
