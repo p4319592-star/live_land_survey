@@ -250,7 +250,7 @@ python ai_agents/agent_comm.py   # AI agent negotiation demo
 
 1. **Introduction** (30s): "Q-GibberLink secures AI-to-AI communication with quantum cryptography..."
 
-2. **Clean Channel Demo** (60s):
+2. **Clean Channel Demo** (2s to 60s):
    - Select Protocol: Q-SHIELD Hybrid, Attack: None
    - Launch → Show HYBRID mode, low QBER, secure key
    - Play the GibberLink audio beep
@@ -305,4 +305,4 @@ MIT License — Built for hackathon demonstration purposes.
 
 ## Team
 
-Q-GibberLink Research Team — Hackathon Track 1: Quantum Cryptography & Security
+IRON_LAB Research Team — Hackathon Track 1: Quantum Cryptography & Security
